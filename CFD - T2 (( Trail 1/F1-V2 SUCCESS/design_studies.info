@@ -1,0 +1,7 @@
+<cfd_design_studies user_name="USER" version="24.0.43">
+ <design_study instance_id="id_not_defined" name="F1-V2 SUCCESS" folder="C:/Users/USER/Documents/Project CES/Anduril F1/CFD - T2 (( Trail 1/F1-V2 SUCCESS" study_id="eb60581c-9ac4-493a-a5bf-f93587387be4">
+  <design launcher_type="CP_FUSION" model_id="F1-V2 SUCCESS.cfdsmt" name="Design 1" lock_status="false">
+   <analysis name="Scenario 1"/>
+  </design>
+ </design_study>
+</cfd_design_studies>

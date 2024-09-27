@@ -1,0 +1,55 @@
+Auto-Transcript Start Time:  03:19:43, 25 Jun 2024 Malay Peninsula Standard Time 
+Current Directory: "C:\Users\USER\Documents\Project CES\Anduril F1\CFD - T3 Ansys"
+
+              Welcome to ANSYS Fluent 2024 R1
+
+              Copyright 1987-2024 ANSYS, Inc. All Rights Reserved.
+              Unauthorized use, distribution or duplication is prohibited.
+              This product is subject to U.S. laws governing export and re-export.
+              For full Legal Notice, see documentation.
+
+Build Time: Nov 22 2023 10:31:01 EST  Build Id: 10184  
+ 
+Connected License Server List:	<Shared_Web_License_Server>
+
+     --------------------------------------------------------------
+     This is a student version of ANSYS FLUENT. Usage of this product
+     license is limited to the terms and conditions specified in your ANSYS
+     license form, additional terms section.
+     --------------------------------------------------------------
+Host spawning Node 0 on machine "StarForge-FS" (win64).
+
+----------------------------------------------------------------------------------------
+ID    Hostname      Core   O.S.         PID    Vendor                                  
+----------------------------------------------------------------------------------------
+n15   StarForge-FS  16/16  Windows-x64  24516  13th Gen Intel(R) Core(TM) i7-13620H    
+n14   StarForge-FS  15/16  Windows-x64  22496  13th Gen Intel(R) Core(TM) i7-13620H    
+n13   StarForge-FS  14/16  Windows-x64  23936  13th Gen Intel(R) Core(TM) i7-13620H    
+n12   StarForge-FS  13/16  Windows-x64  5312   13th Gen Intel(R) Core(TM) i7-13620H    
+n11   StarForge-FS  12/16  Windows-x64  21988  13th Gen Intel(R) Core(TM) i7-13620H    
+n10   StarForge-FS  11/16  Windows-x64  11216  13th Gen Intel(R) Core(TM) i7-13620H    
+n9    StarForge-FS  10/16  Windows-x64  21868  13th Gen Intel(R) Core(TM) i7-13620H    
+n8    StarForge-FS  9/16   Windows-x64  5668   13th Gen Intel(R) Core(TM) i7-13620H    
+n7    StarForge-FS  8/16   Windows-x64  13996  13th Gen Intel(R) Core(TM) i7-13620H    
+n6    StarForge-FS  7/16   Windows-x64  10532  13th Gen Intel(R) Core(TM) i7-13620H    
+n5    StarForge-FS  6/16   Windows-x64  1492   13th Gen Intel(R) Core(TM) i7-13620H    
+n4    StarForge-FS  5/16   Windows-x64  15048  13th Gen Intel(R) Core(TM) i7-13620H    
+n3    StarForge-FS  4/16   Windows-x64  13884  13th Gen Intel(R) Core(TM) i7-13620H    
+n2    StarForge-FS  3/16   Windows-x64  13032  13th Gen Intel(R) Core(TM) i7-13620H    
+n1    StarForge-FS  2/16   Windows-x64  7596   13th Gen Intel(R) Core(TM) i7-13620H    
+n0*   StarForge-FS  1/16   Windows-x64  18068  13th Gen Intel(R) Core(TM) i7-13620H    
+host  StarForge-FS         Windows-x64  23184  13th Gen Intel(R) Core(TM) i7-13620H    
+
+MPI Option Selected: intel
+Selected system interconnect: default
+----------------------------------------------------------------------------------------
+
+Cleanup script file is C:\\Users\\USER\\Documents\\Project CES\\Anduril F1\\CFD - T3 Ansys\\cleanup-fluent-StarForge-FS-23184.bat
+(cx-gui-do cx-activate-tab-index "NavigationPane*Frame1(TreeTab)" 0)
+
+Meshing> (cx-gui-do cx-activate-item "Key Behavioral Changes*PanelButtons*PushButton1(OK)")
+(cx-use-window-id 51)
+(cx-set-camera-relative '(-0.156788 0.856707 -0.129204) '(0 0 0) '(0.00770046 -0.0416707 -0.285565) 0 0)
+/exit y
+Auto-Transcript Stop Time:  03:22:39, 25 Jun 2024 Malay Peninsula Standard Time 
+Total Transcript Time: 2 Minute 56 Second.
